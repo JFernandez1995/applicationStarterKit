@@ -8,3 +8,5 @@ Installed Dependencies for this starter kit
 4. expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-viewyarn
 5. yarn add @react-navigation/stack
 6. yarn add @react-navigation/bottom-tabs
+
+In the initializeFirebase.js file under appStartKit\backendFunctions, please input your web app's Firebase configuration
