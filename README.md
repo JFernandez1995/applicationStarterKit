@@ -10,3 +10,8 @@ Installed Dependencies for this starter kit
 6. yarn add @react-navigation/bottom-tabs
 
 In the initializeFirebase.js file under appStartKit\backendFunctions, please input your web app's Firebase configuration
+
+To start this application, you will need to install the Expo application to your mobile device.
+
+To run the starter kit use:
+yarn start
